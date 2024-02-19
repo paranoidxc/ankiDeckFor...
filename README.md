@@ -1,8 +1,13 @@
 # ankiDeckFor...
 
-
 ## php candy func
 
-Current The 100 PHP functions that you have to know 
+Current The 100 PHP functions that you have to know
+
+will add MORE
+
+## java candy
+
+java basic and spring + boot
 
 will add MORE
