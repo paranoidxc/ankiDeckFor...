@@ -1,6 +1,6 @@
 # ankiDeckFor...
 
-## php candy func
+## php candy func (count 121)
 
 Current The 100 PHP functions that you have to know
 
